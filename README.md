@@ -22,3 +22,10 @@ Here we make our own _Stack class_ to see how a stack really works under the hoo
 ### Queue
 
 MWe make a Queue class using a list.
+
+
+### Binary Tree
+We will make our own class that implement binary tree and some of it's basic operations
+
+### Binary Search Tree
+A more specific type of binary tree, where every element in the left is smaller than element in the right. We wrote a class than will simulate this notion and run basic operations on this type of tree. 
